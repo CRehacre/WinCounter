@@ -2,6 +2,9 @@
 
 未実装がまだ多いです。
 Release/Counter.exeだけ落とせば動くはずです。
+一番下にOBSの設定で注意事項があります。
+
+
 URL：
 https://github.com/CRehacre/WinCounter/blob/master/Release/Counter.exe
 
@@ -12,5 +15,6 @@ https://github.com/CRehacre/WinCounter/blob/master/Release/Counter.exe
 ![image](https://github.com/CRehacre/WinCounter/assets/157162149/1ee9bf0f-b642-4562-bc16-117d1c36f4b4)
 
 
+一番下にOBSの設定で注意事項があります。
 キャプチャ方法をwindows10にしないと透過が適応されないから設定するときは気を付けてください。
 ![image](https://github.com/CRehacre/WinCounter/assets/157162149/f9f8a58b-367a-4fda-8365-849875abb7cb)
