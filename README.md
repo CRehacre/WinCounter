@@ -1,11 +1,10 @@
 未実装がまだ多いです。
 Release/Counter.exeだけ落とせば動くはずです。
+URL：
+https://github.com/CRehacre/WinCounter/blob/master/Release/Counter.exe
 
 一番下にOBSの設定で注意事項があります。
 
-
-URL：
-https://github.com/CRehacre/WinCounter/blob/master/Release/Counter.exe
 
 ![image](https://github.com/CRehacre/WinCounter/assets/157162149/103f6b6d-fa2c-4ff3-a088-9fb37add1a19)
 
